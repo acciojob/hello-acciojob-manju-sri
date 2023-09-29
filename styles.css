@@ -3,10 +3,10 @@
 #job{
 	width: 150px;
     height: 150px;
-	background-color:black;
+	background-color:#000000;
 }
 
-#hello-accio{
+.hello-accio{
 	color: white;
 	left-margin: 32px;
     padding: 10px;
